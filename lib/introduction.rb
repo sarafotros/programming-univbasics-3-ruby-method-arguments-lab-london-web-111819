@@ -3,12 +3,12 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to co[mplete the rest of this course and be ready for the next course!
 
-def greeting_a_person(name)
-  puts "Hello, #{name}"
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
 
 
-greeting_a_person(Joe)
+introduction(joe)
 
 
 
